@@ -1,0 +1,65 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="genericText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis lacus sem, ac venenatis dui laoreet condimentum. Nam risus ipsum, ornare suscipit elementum quis, tincidunt vel ipsum. Pellentesque blandit urna eget sollicitudin pretium. Donec vulputate lectus vel pulvinar elementum. Sed vel convallis leo. Integer rutrum dapibus ex sit amet sodales. Nullam id imperdiet sapien, id venenatis tortor. Praesent vel bibendum ipsum. Duis pulvinar lacinia feugiat. Nullam nec dignissim lacus, id pellentesque libero. Praesent quis metus quam. Pellentesque et iaculis mi. Pellentesque auctor nunc dui, ut ornare mi convallis vel. Quisque dui risus, varius vel consequat at, suscipit non quam. Proin vulputate, arcu et bibendum sodales, tellus sem sollicitudin dui, id faucibus nisl eros eget sapien. Nullam nec tortor finibus, consequat odio nec, dignissim nisl. Fusce id egestas lectus. Mauris imperdiet efficitur lectus eget pellentesque. Donec non leo quam. Nullam ut feugiat lectus. Phasellus dapibus justo luctus sem dictum scelerisque. Nunc tempor facilisis elit, eget elementum leo accumsan ac. Aliquam odio sapien, sagittis sed vulputate vel, condimentum non augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur dignissim dui eu nibh blandit, sit amet ullamcorper erat volutpat. Nullam non suscipit nisl, ac finibus odio. Maecenas congue lacinia nunc et faucibus. Nunc ut auctor sem, eu varius felis. Praesent efficitur facilisis placerat. Pellentesque finibus ut eros maximus suscipit. Mauris urna erat, venenatis quis congue sit amet, facilisis eu eros. Donec non nunc ipsum. Vestibulum facilisis tellus quis volutpat fermentum. Quisque interdum, risus eget porttitor porta, purus justo ornare sapien, id sagittis massa quam vel massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor scelerisque ante, vitae facilisis massa pulvinar nec. Proin et feugiat est, quis aliquet est. Phasellus elementum mollis auctor. Duis porta dui ut sapien rhoncus elementum. Donec id lobortis metus. Cras fringilla mattis tristique. Sed placerat turpis turpis, id dignissim enim tempus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed pulvinar augue id odio dapibus, sed commodo sapien euismod. Morbi condimentum condimentum egestas. Nullam varius nec ligula et venenatis. Cras sit amet nisl vitae felis euismod laoreet a sed massa. Fusce facilisis ex vel lacus euismod placerat eget eu lectus. Morbi a massa ultricies, iaculis quam dapibus, viverra urna. Vestibulum ac mi cursus, aliquam ex in, hendrerit elit. Ut porta lectus eget mi pharetra pulvinar. Aenean rutrum purus et elit luctus, quis ultrices risus efficitur. Phasellus neque est, blandit sed erat sit amet, sodales maximus arcu. Fusce auctor cursus scelerisque. Nulla ornare non velit id placerat. Ut bibendum rhoncus tincidunt. Donec eu nulla quis enim tempus scelerisque.</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
